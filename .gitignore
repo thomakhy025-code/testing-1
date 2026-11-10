@@ -1,0 +1,47 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+.plastic/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Burst ships macOS and Linux tools this Windows game does not need.
+# hostmac/lld is larger than GitHub's 100MB file limit.
+Packages/com.unity.burst/.Runtime/hostmac/
+Packages/com.unity.burst/.Runtime/hostmac.meta
+Packages/com.unity.burst/.Runtime/hostlin/
+Packages/com.unity.burst/.Runtime/hostlin.meta
+Packages/com.unity.burst/.Runtime/*.dylib
+Packages/com.unity.burst/.Runtime/*.dylib.meta
+Packages/com.unity.burst/.Runtime/*.so
+Packages/com.unity.burst/.Runtime/*.so.meta
+
+# Generated character previews
+Tools/boy_preview/
